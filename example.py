@@ -1,4 +1,4 @@
-def fun_a():
-    print("I have been called")
+def fun_a(a,b):
+    print(a+b)
 
-fun_a()
+fun_a(1,4)
