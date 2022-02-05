@@ -1,4 +1,3 @@
-def fun_a(a = 1 ,b = 4):
-    print(a+b)
+def fun_a():
+    pass
 
-fun_a()
